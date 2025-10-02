@@ -1,0 +1,13 @@
+{
+  "labels": [
+    "Sep 2025",
+    "Oct 2025",
+    "Nov 2025"
+  ],
+  "forecast": [
+    182.2,
+    182.2,
+    182.2
+  ],
+  "model": "Gradient Boosting"
+}

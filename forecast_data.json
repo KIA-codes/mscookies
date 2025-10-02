@@ -1,0 +1,326 @@
+[
+  {
+    "DATE": "2021-11-30",
+    "Actual_Sales": 375.0,
+    "Hybrid_Forecast": 462.3191301022939,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2021-12-31",
+    "Actual_Sales": 325.0,
+    "Hybrid_Forecast": 391.1335691601766,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-01-31",
+    "Actual_Sales": 200.0,
+    "Hybrid_Forecast": 271.2354861312436,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-02-28",
+    "Actual_Sales": 100.0,
+    "Hybrid_Forecast": 110.89287115495488,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-03-31",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 59.29805461540133,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-04-30",
+    "Actual_Sales": 1800.0,
+    "Hybrid_Forecast": 1453.2351568307301,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-05-31",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 160.25965789156243,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-06-30",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 103.93003938132455,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-07-31",
+    "Actual_Sales": 1595.0,
+    "Hybrid_Forecast": 1255.5223735412203,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-08-31",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 199.59966240587715,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-09-30",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 156.94704882000258,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-10-31",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 121.23381165565888,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-11-30",
+    "Actual_Sales": 450.0,
+    "Hybrid_Forecast": 261.2510792308025,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2022-12-31",
+    "Actual_Sales": 0.0,
+    "Hybrid_Forecast": 232.0990233997279,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-01-31",
+    "Actual_Sales": 2085.0,
+    "Hybrid_Forecast": 1987.9526190709166,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-02-28",
+    "Actual_Sales": 8555.0,
+    "Hybrid_Forecast": 7836.698494425392,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-03-31",
+    "Actual_Sales": 7750.0,
+    "Hybrid_Forecast": 8135.095632779299,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-04-30",
+    "Actual_Sales": 7805.0,
+    "Hybrid_Forecast": 7804.230532336131,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-05-31",
+    "Actual_Sales": 7805.0,
+    "Hybrid_Forecast": 7884.410807765677,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-06-30",
+    "Actual_Sales": 7880.0,
+    "Hybrid_Forecast": 7882.649222926956,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-07-31",
+    "Actual_Sales": 7885.0,
+    "Hybrid_Forecast": 7959.384926304273,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-08-31",
+    "Actual_Sales": 7999.01,
+    "Hybrid_Forecast": 7962.762967893169,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-09-30",
+    "Actual_Sales": 8225.0,
+    "Hybrid_Forecast": 8079.283952147047,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-10-31",
+    "Actual_Sales": 8125.0,
+    "Hybrid_Forecast": 8307.886895525324,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-11-30",
+    "Actual_Sales": 7935.0,
+    "Hybrid_Forecast": 8200.290746146915,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2023-12-31",
+    "Actual_Sales": 8105.0,
+    "Hybrid_Forecast": 8069.5434494590845,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-01-31",
+    "Actual_Sales": 11190.0,
+    "Hybrid_Forecast": 10979.265938867005,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-02-29",
+    "Actual_Sales": 15662.0,
+    "Hybrid_Forecast": 15151.732316879756,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-03-31",
+    "Actual_Sales": 5555.0,
+    "Hybrid_Forecast": 6225.381057388267,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-04-30",
+    "Actual_Sales": 8715.0,
+    "Hybrid_Forecast": 8806.066739385653,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-05-31",
+    "Actual_Sales": 14620.0,
+    "Hybrid_Forecast": 14086.618808043797,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-06-30",
+    "Actual_Sales": 11967.0,
+    "Hybrid_Forecast": 11910.844059258705,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-07-31",
+    "Actual_Sales": 11715.0,
+    "Hybrid_Forecast": 11871.63453513793,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-08-31",
+    "Actual_Sales": 11752.0,
+    "Hybrid_Forecast": 11750.313168302464,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-09-30",
+    "Actual_Sales": 11505.0,
+    "Hybrid_Forecast": 11714.781805106992,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-10-31",
+    "Actual_Sales": 16955.0,
+    "Hybrid_Forecast": 16469.65186193947,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-11-30",
+    "Actual_Sales": 9935.0,
+    "Hybrid_Forecast": 10304.506364457542,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2024-12-31",
+    "Actual_Sales": 11394.0,
+    "Hybrid_Forecast": 11174.311128025289,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2025-01-31",
+    "Actual_Sales": 6743.0,
+    "Hybrid_Forecast": 7091.1107747554115,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2025-02-28",
+    "Actual_Sales": 11733.0,
+    "Hybrid_Forecast": 11360.27780671397,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2025-03-31",
+    "Actual_Sales": 6060.0,
+    "Hybrid_Forecast": 6162.409802875336,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2025-04-30",
+    "Actual_Sales": 4130.0,
+    "Hybrid_Forecast": 4221.956621761251,
+    "Future_Forecast": NaN
+  },
+  {
+    "DATE": "2025-05-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-06-30",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-07-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-08-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-09-30",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-10-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-11-30",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2025-12-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2026-01-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2026-02-28",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2026-03-31",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  },
+  {
+    "DATE": "2026-04-30",
+    "Actual_Sales": NaN,
+    "Hybrid_Forecast": NaN,
+    "Future_Forecast": 1952.75
+  }
+]
