@@ -1,0 +1,120 @@
+<!-- cookie-loader.html -->
+<div id="cookie-loader" style="display:none;">
+  <div class="loading-screen">
+    <div class="cookie-frame" id="cookieContainer"></div>
+    
+   
+  </div>
+</div>
+
+<style>
+#cookie-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(252, 190, 218, 0.95);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loading-screen {
+  text-align: center;
+}
+
+.cookie-frame {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto 20px;
+  animation: bounce 0.6s ease-in-out infinite alternate;
+  color: #ec3462;
+}
+
+@keyframes bounce {
+  from { transform: translateY(0); }
+  to { transform: translateY(-10px); }
+}
+
+#loadingText {
+  font-size: 16px;
+  color: #4e342e;
+}
+</style>
+
+<script>
+ const svgFrames = [
+      `<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http:www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.65692 9.41494h.01M7.27103 13h.01m7.67737 1.9156h.01M10.9999 17h.01m3.1100-10.90671c-.8316.38094-1.8475.22903-2.5322-.45571-.3652-.36522-.51009-.82462-.6409-1.30001-.0574-.44-.0189-.98879.1833-1.39423-1.99351.20001-3.93304 1.06362-5.46025 2.59083-3.51472 3.51472-3.51472 9.21323 0 12.72793 3.51471 3.5147 9.21315 3.5147 12.72795 0 1.5601-1.5602 2.42100-3.5507 2.6028-5.5894-.2108.008-.6725.0223-.8328.0157-.635.0644-1.2926-.1466-1.779-.633-.3566-.3566-.5651-.8051-.6257-1.2692-.0561-.4293.0145-.87193.2117-1.26755-.1159.20735-.2619.40237-.4381.510065-1.0283 1.0282-2.6953 1.0282-3.7235 0-1.0282-1.02824-1.0282-2.69531 0-3.72352.0977-.09777.2013-.18625.3095-.26543"/>
+</svg>
+
+`,
+      `<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http:www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 8.00003c0-.82843.5-2 2-2m-2 2V10.5c0 .8285-.67157 1.5-1.5 1.5S7 11.3285 7 10.5V7.50003m3 .5-3-.5m5-1.5c1.5 0 2 1.17157 2 2m-2-2v-3m-5 4.5c0-2.48528 2.51472-4.5 5-4.5m0 0c2.4853 0 5 2.01472 5 4.5V19.5c0 .8285-.6716 1.5-1.5 1.5s-1.5-.6715-1.5-1.5V8.00003m0 0h3M14 12h3m-3 4h3"/>
+</svg>
+
+`,
+      `<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http:www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 17.4302V15h4.33332M5 17.4302V21h14v-6h-4.3333M5 17.4302c.38672.3365.923.5698 1.66666.5698 2.66664 0 2.66666-3 2.66666-3m5.33338 0H9.33332m5.33338 0s0 3-2.6667 3c-2.66668 0-2.66668-3-2.66668-3m5.33338 0s0 3 2.6666 3c.7437 0 1.28-.2333 1.6667-.5698m-7-9.43017c.1093 0 2-1.11929 2-2.5s-1.9079-2.5-2-2.5c-.0921 0-2 1.11929-2 2.5s1.8947 2.5 2 2.5Zm0 0V11m-6 0v4h12v-4H6Z"/>
+</svg>
+`,
+      `<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http:www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.011 13H20c-.367 2.5551-2.32 4.6825-4.9766 5.6162V20H8.97661v-1.3838C6.31996 17.6825 4.36697 15.5551 4 13h14.011Zm0 0c1.0995-.0059 1.989-.8991 1.989-2 0-.8637-.5475-1.59948-1.3143-1.87934M18.011 13H18m0-3.99997c.2409 0 .4718.04258.6857.12063m0 0c.8367-1.0335.7533-2.67022-.2802-3.50694-1.0335-.83672-2.5496-.6772-3.3864.35631-.293-1.50236-1.7485-2.15377-3.2509-1.8607-1.5023.29308-2.48263 1.74856-2.18956 3.25092C8.9805 6.17263 7.6182 5.26418 6.15462 6.00131 4.967 6.59945 4.45094 8.19239 5.04909 9.38002m0 0C4.37083 9.66467 4 10.3357 4 11.1174 4 12.1571 4.84288 13 5.88263 13m-.83354-3.61998c.2866-.12029 1.09613-.40074 2.04494.3418m5.27497-.89091c1.0047-.4589 2.1913-.01641 2.6502.98832"/>
+</svg>
+`
+    ];
+
+let frameIndex = 0;
+let animationInterval;
+
+// Show loader
+// function showCookieLoader() {
+  //document.getElementById('cookie-loader').style.display = 'flex';
+ // const cookieContainer = document.getElementById('cookieContainer');
+  //const loadingText = document.getElementById('loadingText');
+
+ // clearInterval(animationInterval);
+  //animationInterval = setInterval(() => {
+    //cookieContainer.innerHTML = svgFrames[frameIndex];
+    //frameIndex = (frameIndex + 1) % svgFrames.length;
+    //loadingText.textContent = "Poor internet connection...";
+  //}, 500);
+//} 
+
+// Hide loader
+function hideCookieLoader() {
+  document.getElementById('cookie-loader').style.display = 'none';
+  clearInterval(animationInterval);
+}
+
+// Connection check
+async function checkConnection() {
+  if (!navigator.onLine) {
+    showCookieLoader();
+    return;
+  }
+  const start = performance.now();
+  try {
+    // Ping a lightweight resource
+    await fetch("https://www.google.com/favicon.ico?rand=" + Math.random(), {mode:'no-cors'});
+    const latency = performance.now() - start;
+    if (latency > 1500) { // threshold in ms
+      showCookieLoader();
+    } else {
+      hideCookieLoader();
+    }
+  } catch (e) {
+    showCookieLoader();
+  }
+}
+
+// Monitor connection every 5 seconds
+setInterval(checkConnection, 5000);
+window.addEventListener("online", checkConnection);
+window.addEventListener("offline", showCookieLoader);
+
+// Initial check
+checkConnection();
+</script>

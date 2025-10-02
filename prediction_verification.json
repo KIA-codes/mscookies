@@ -1,0 +1,29 @@
+[
+  {
+    "month": "Mar 2025",
+    "actual": 5150.0,
+    "predicted": 1982.83,
+    "difference": -3167.17,
+    "percent_error": 61.5,
+    "accuracy": 38.5,
+    "status": "Missed"
+  },
+  {
+    "month": "Jul 2025",
+    "actual": 700.0,
+    "predicted": 15343.06,
+    "difference": 14643.06,
+    "percent_error": 2091.87,
+    "accuracy": -1991.87,
+    "status": "Missed"
+  },
+  {
+    "month": "Aug 2025",
+    "actual": 170.0,
+    "predicted": 26844.36,
+    "difference": 26674.36,
+    "percent_error": 15690.8,
+    "accuracy": -15590.8,
+    "status": "Missed"
+  }
+]

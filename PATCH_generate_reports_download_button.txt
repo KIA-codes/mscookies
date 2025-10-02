@@ -1,0 +1,234 @@
+========================================
+PATCH FOR generate_reports.php
+Fixed Download Button in Report Modal
+========================================
+
+STEP 1: Add CSS for Fixed Download Button
+------------------------------------------
+Location: After line 1410 (after .reportmodal-header CSS)
+
+ADD THIS CSS:
+
+/* Fixed download button in modal */
+.modal-download-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: #ec3462;
+  color: white;
+  border: none;
+  padding: 14px 24px;
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  box-shadow: 0 6px 20px rgba(236, 52, 98, 0.4);
+  transition: all 0.3s ease;
+  z-index: 10000;
+  text-decoration: none;
+}
+.modal-download-btn:hover {
+  background: #c72b52;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(236, 52, 98, 0.5);
+}
+.modal-download-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+
+STEP 2: Add Download Button HTML
+----------------------------------
+Location: After line 1800 (right after the closing </div> of reportmodal-header)
+
+FIND THIS:
+    <div class="reportmodal-header">
+      <span class="closebtn" onclick="closereportModal()">&times;</span>
+    </div>
+
+ADD THIS RIGHT AFTER:
+    
+    <!-- Fixed Download Button -->
+    <a href="export_report_all.php" target="_blank" class="modal-download-btn" id="modalDownloadBtn">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V4M7 14H5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-2m-1-5-4 5-4-5m9 8h.01"/>
+      </svg>
+      Download PDF
+    </a>
+
+
+STEP 3: Update switchTab Function
+-----------------------------------
+Location: Around line 2034
+
+FIND THIS:
+function switchTab(timeFilter) {
+  // Update active tab
+  document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+  event.target.classList.add('active');
+  
+  // Update current filter
+  currentFilter.timeFilter = timeFilter;
+  currentFilter.customDate = '';
+  currentFilter.dateType = '';
+  updateDownloadLink();
+  
+  // Show custom date modal for custom tab
+  if (timeFilter === 'custom') {
+    openCustomDateModal();
+    return; // Don't load data yet for custom date
+  }
+  
+  // Show loading indicator
+  showLoading();
+  
+  // Load data via AJAX
+  loadReportData(timeFilter);
+}
+
+REPLACE WITH:
+function switchTab(timeFilter) {
+  // Update active tab
+  document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+  event.target.classList.add('active');
+  
+  // Update current filter
+  currentFilter.timeFilter = timeFilter;
+  currentFilter.customDate = '';
+  currentFilter.dateType = '';
+  
+  // Update download button link based on tab
+  updateModalDownloadLink(timeFilter);
+  
+  // Show custom date modal for custom tab
+  if (timeFilter === 'custom') {
+    openCustomDateModal();
+    return; // Don't load data yet for custom date
+  }
+  
+  // Show loading indicator
+  showLoading();
+  
+  // Load data via AJAX
+  loadReportData(timeFilter);
+}
+
+
+STEP 4: Add updateModalDownloadLink Function
+----------------------------------------------
+Location: Right after the switchTab function (around line 2056)
+
+ADD THIS NEW FUNCTION:
+
+function updateModalDownloadLink(timeFilter, customDate = '', dateType = '') {
+  const downloadBtn = document.getElementById('modalDownloadBtn');
+  if (!downloadBtn) return;
+  
+  let url = '';
+  switch(timeFilter) {
+    case 'all':
+      url = 'export_report_all.php';
+      break;
+    case 'today':
+      url = 'export_report_today.php';
+      break;
+    case 'week':
+      url = 'export_report_week.php';
+      break;
+    case 'month':
+      url = 'export_report_month.php';
+      break;
+    case 'year':
+      url = 'export_report_year.php';
+      break;
+    case 'custom':
+      url = 'export_report_custom.php';
+      if (customDate) {
+        url += '?custom_date=' + encodeURIComponent(customDate);
+        if (dateType) {
+          url += '&date_type=' + encodeURIComponent(dateType);
+        }
+      }
+      break;
+    default:
+      url = 'export_report_all.php';
+  }
+  
+  downloadBtn.href = url;
+}
+
+
+STEP 5: Update openreportModal Function
+-----------------------------------------
+Location: Around line 2019
+
+FIND THIS:
+function openreportModal() {
+  document.getElementById("reportModal").style.display = "flex";
+  currentSlide = 0;
+  updateSlidePosition();
+}
+
+REPLACE WITH:
+function openreportModal() {
+  document.getElementById("reportModal").style.display = "flex";
+  currentSlide = 0;
+  updateSlidePosition();
+  // Initialize download button to "All Time" by default
+  updateModalDownloadLink('all');
+}
+
+
+STEP 6: Update applyCustomDate Function
+-----------------------------------------
+Location: Around line 2210
+
+FIND THIS:
+  if (dateValue) {
+    // Update current filter
+    currentFilter.timeFilter = 'custom';
+    currentFilter.customDate = dateValue;
+    currentFilter.dateType = dateType;
+    updateDownloadLink();
+    
+    closeCustomDateModal();
+    showLoading();
+    loadReportData('custom', dateValue, dateType);
+  }
+
+REPLACE WITH:
+  if (dateValue) {
+    // Update current filter
+    currentFilter.timeFilter = 'custom';
+    currentFilter.customDate = dateValue;
+    currentFilter.dateType = dateType;
+    
+    // Update download link with custom parameters
+    updateModalDownloadLink('custom', dateValue, dateType);
+    
+    closeCustomDateModal();
+    showLoading();
+    loadReportData('custom', dateValue, dateType);
+  }
+
+
+STEP 7: Remove old updateDownloadLink references (OPTIONAL CLEANUP)
+---------------------------------------------------------------------
+Location: Around line 2051
+
+You can optionally remove or comment out the old updateDownloadLink() function
+and the old downloadReportBtn references since we're now using the modal button.
+
+========================================
+END OF PATCH
+========================================
+
+TESTING:
+1. Open the report modal
+2. Switch between tabs (All Time, Today, Week, Month, Year, Custom)
+3. Check that the download button in the bottom-right corner changes its link
+4. Click download and verify the correct PDF is generated for each tab

@@ -1,0 +1,726 @@
+﻿DATE,CUSTOMER NAME,PRODUCT CODE,QUANTITY,PRICE,ORDER ID,Payment Method
+25-Jan-23,Charles Banigan,MT1,1,₱135.00,3826,Cash
+25-Jan-23,Jazmin Adriano,MT1,1,₱135.00,2802,Cash
+25-Jan-23,Rein Alfrances,MT1,1,₱135.00,4329,Cash
+25-Jan-23,Erin Beltran,MT1,1,₱135.00,7244,Cash
+25-Jan-23,Jhoanna Bunag,MT2,1,₱130.00,6423,Cash
+25-Jan-23,Misha Mercado,MT2,1,₱130.00,4109,Cash
+25-Jan-23,Mia Siongcp,MT3,1,₱135.00,3941,Cash
+25-Jan-23,Jacin Borlongan,MT3,1,₱135.00,8650,Cash
+25-Jan-23,Jojie Mananghaya,MT4,1,₱115.00,1506,Cash
+25-Jan-23,Lui Trinidad,CC10P,1,₱110.00,2361,Cash
+25-Jan-23,Ela Ojo,SM10P,1,₱120.00,2932,Cash
+25-Jan-23,Jhoanna Bunag,SM10P,1,₱120.00,1878,Cash
+25-Jan-23,Madam JC,MD10P,1,₱150.00,4171,Cash
+25-Jan-23,Val Olaivar,MT1,1,₱135.00,9692,Cash
+25-Jan-23,Dani Nisnisan,MT1,1,₱135.00,2910,Cash
+14-Feb-23,Pat Barrios,MT1,1,₱135.00,4550,Cash
+14-Feb-23,Charles Banigan,MT1,1,₱135.00,4614,Cash
+14-Feb-23,Elisha Ruby,MT1,1,₱135.00,1528,Cash
+14-Feb-23,Franxine Abu,MT1,1,₱135.00,4808,Cash
+14-Feb-23,Angel Isaac ,MT1,1,₱135.00,8405,Cash
+14-Feb-23,Angel Isaac ,MT1,1,₱135.00,6706,Cash
+14-Feb-23,Joyce Melendres ,MT1,1,₱135.00,5497,Cash
+14-Feb-23,Joyce Melendres ,MT1,1,₱135.00,6557,Cash
+14-Feb-23,Joyce Melendres ,MT1,1,₱135.00,3413,Cash
+14-Feb-23,Thea Sacaguing,MT1,1,₱135.00,8242,Cash
+14-Feb-23,Von Zundell ,MT1,1,₱135.00,9831,Cash
+14-Feb-23,Von Zundell ,MT1,1,₱135.00,3173,Cash
+14-Feb-23,Jazmin Rose,MT1,1,₱135.00,7105,Cash
+14-Feb-23,Athena Masangcay,MT1,1,₱135.00,6171,Cash
+14-Feb-23,Zen Bangon,MT1,1,₱135.00,5960,Cash
+14-Feb-23,Mitzi Panteleon,MT1,1,₱135.00,7175,Cash
+14-Feb-23,RL Baloyo ,MT1,1,₱135.00,4565,Cash
+14-Feb-23,RL Baloyo ,MT1,1,₱135.00,3619,Cash
+14-Feb-23,Wenna (Lei),MT1,1,₱135.00,8831,Cash
+14-Feb-23,Rainne Eleria,MT1,1,₱135.00,6309,Cash
+14-Feb-23,Franz Orcadeja,MT1,1,₱135.00,8509,Cash
+14-Feb-23,Mia Siongco,MT1,1,₱135.00,5155,Cash
+14-Feb-23,Jianne (lib),MT1,1,₱135.00,5144,Cash
+14-Feb-23,Wakim (lib),MT1,1,₱135.00,6425,Cash
+14-Feb-23,Jowan,MT1,1,₱135.00,4895,Cash
+14-Feb-23,Andrea Lalogo,MT1,1,₱135.00,3522,Cash
+14-Feb-23,Kleineil Galang ,MT1,1,₱135.00,6480,Cash
+14-Feb-23,Kleineil Galang ,MT1,1,₱135.00,1708,Cash
+14-Feb-23,Pia Laxa,MT1,1,₱135.00,8523,Cash
+14-Feb-23,Shekainah Ortega,MT1,1,₱135.00,9075,Cash
+14-Feb-23,Trisha Mae Ramos,MT1,1,₱135.00,6697,Cash
+14-Feb-23,G-ann,MT2,1,₱130.00,1402,Cash
+14-Feb-23,Aaron,MT2,1,₱130.00,2969,Cash
+14-Feb-23,Saina,MT2,1,₱130.00,5942,Cash
+14-Feb-23,Val,MT2,1,₱130.00,7390,Cash
+14-Feb-23,Trisha Mae Ramos,MT2,1,₱130.00,2378,Cash
+14-Feb-23,Elisha Ruby,MT3,1,₱135.00,7580,Cash
+14-Feb-23,Mia Siongco,MT3,1,₱135.00,9853,Cash
+14-Feb-23,Trishelle Santos,MT3,1,₱135.00,1537,Cash
+14-Feb-23,Erin,MT3,1,₱135.00,3216,Cash
+14-Feb-23,Ashley Crystal Dane ,MT3,1,₱135.00,9091,Cash
+14-Feb-23,Ashley Crystal Dane ,MT3,1,₱135.00,3268,Cash
+14-Feb-23,Ilay,MT4,1,₱115.00,4283,Cash
+14-Feb-23,Mika Dolar,MT4,1,₱115.00,4588,Cash
+14-Feb-23,Maxine Mentay,MT4,1,₱115.00,2958,Cash
+14-Feb-23,Enrico II,MT4,1,₱115.00,4711,Cash
+14-Feb-23,Genesis,MT4,1,₱115.00,6843,Cash
+14-Feb-23,Gabby Gonzales,MT4,1,₱115.00,6255,Cash
+14-Feb-23,Teph Cabral,CC10P,1,₱110.00,9839,Cash
+14-Feb-23,Misha Mercado,CC10P,1,₱110.00,3895,Cash
+14-Feb-23,Bree Cortez,CC10P,1,₱110.00,2447,Cash
+14-Feb-23,Rochy Ocampo,CC10P,1,₱110.00,3588,Cash
+14-Feb-23,Yani Santos,SM10P,1,₱120.00,9691,Cash
+14-Feb-23,Val,MD10P,1,₱150.00,7894,Cash
+14-Feb-23,Reyner Santos,MD10P,1,₱150.00,3439,Cash
+14-Feb-23,Thea Aspe,MD10P,1,₱150.00,8527,Cash
+14-Feb-23,Cheska Z.,MD10P,1,₱150.00,8842,Cash
+14-Feb-23,Anonymous,MD10P,1,₱150.00,6228,Cash
+16-Dec-23,Charles,A10P,1,₱115.00,7565,Cash
+16-Dec-23,Akeesha,A10P,1,₱115.00,9082,Cash
+16-Dec-23,Mayor ,A10P,2,₱230.00,5705,Cash
+16-Dec-23,Fiona,A10P,1,₱115.00,3363,Cash
+16-Dec-23,Trishelle,A10P,1,₱115.00,3158,Cash
+16-Dec-23,Ela,A10P,1,₱115.00,5739,Cash
+16-Dec-23,Erin,A10P,1,₱115.00,6858,Cash
+16-Dec-23,Misha,A10P,1,₱115.00,2109,Gcash
+16-Dec-23,Bree,A10P,1,₱115.00,8112,Cash
+16-Dec-23,Ilay,A10P,1,₱115.00,4487,Gcash
+16-Dec-23,Mika,A10P,1,₱115.00,5110,Cash
+16-Dec-23,Aaron,A10P,1,₱115.00,2849,Cash
+16-Dec-23,Maria Feliciana Louise,A10P,2,₱230.00,2064,Cash
+16-Dec-23,RL,A10P,1,₱115.00,1024,Gcash
+16-Dec-23,Tela,A10P,1,₱115.00,2408,Gcash
+16-Dec-23,Mitzi,A10P,1,₱115.00,3571,Cash
+16-Dec-23,Alyssa Go,A10P,1,₱115.00,4185,Gcash
+16-Dec-23,Mia,A10P,1,₱115.00,3257,Cash
+16-Dec-23,Enrico,A10P,1,₱115.00,6787,Cash
+16-Dec-23,Sophia,A10P,1,₱115.00,2314,Gcash
+16-Dec-23,Amber,A10P,1,₱115.00,1586,Cash
+16-Dec-23,Nati,A10P,1,₱115.00,2465,Cash
+16-Dec-23,Aian,A10P,1,₱115.00,6513,Gcash
+16-Dec-23,Kuya Pey,A10P,1,₱115.00,3120,Cash
+16-Dec-23,Angela (paorder),A10P,3,₱345.00,5166,Cash
+16-Dec-23,Angela (paorder to balagtas),A10P,1,₱115.00,6806,Gcash
+16-Dec-23, Angela (paorder Friday asstd),A10P,1,₱115.00,8685,Gcash
+16-Dec-23,Mari Haidu,A10P,1,₱115.00,2415,Gcash
+16-Dec-23,Tita Me,A10P,1,₱115.00,4460,Cash
+16-Dec-23,Jhoanna Bunag,A10P,1,₱115.00,9830,Cash
+16-Dec-23,Ate Joyce,A10P,1,₱115.00,4305,Gcash
+16-Dec-23,Ate Blessie,A10P,1,₱115.00,1473,Cash
+16-Dec-23,Reyner,CC10P,1,₱110.00,3924,Cash
+16-Dec-23,Ate Cheska,CC10P,1,₱110.00,3807,Gcash
+16-Dec-23,Angela (paorder to plaza),CC10P,4,₱440.00,1477,Cash
+16-Dec-23,Ann,SM10P,1,₱120.00,9997,Cash
+16-Dec-23,Ate Cheska,SM10P,1,₱120.00,5569,Gcash
+16-Dec-23,Dana,SM10P,1,₱120.00,3166,Gcash
+16-Dec-23,Kuya Lucas,SM10P,1,₱120.00,5552,Cash
+31-Dec-23,Tita Michelle,A10P,1,₱115.00,1070,Cash
+31-Dec-23,Jannah,A10P,2,₱230.00,8501,Cash
+31-Dec-23,Sean,A10P,1,₱115.00,8907,Cash
+31-Dec-23,Angela,A10P,1,₱115.00,1491,Cash
+31-Dec-23,Ella,A10P,1,₱115.00,2490,Cash
+31-Dec-23,Akeesha,A10P,1,₱115.00,3831,Cash
+31-Dec-23,Jannah,CC10P,1,₱110.00,2166,Cash
+31-Dec-23,A. Maria,CC10P,1,₱110.00,4374,Cash
+31-Dec-23,Kakay,CC10P,1,₱110.00,2445,Cash
+31-Dec-23,Irish Gab,SM10P,1,₱120.00,6335,Cash
+31-Dec-23,A. Maria,SM10P,1,₱120.00,6128,Cash
+31-Dec-23,Kakay,SM10P,1,₱120.00,5061,Cash
+31-Dec-23,Ate Blessie,SM10P,1,₱120.00,9916,Cash
+9-Jan-24,Janjan,A10P,1,₱115.00,1901,Cash
+9-Jan-24,Angela,A10P,1,₱115.00,6462,Cash
+9-Jan-24,Denber,A10P,1,₱115.00,3681,Gcash
+9-Jan-24,Maria Feliciana,A10P,2,₱230.00,7320,Cash
+9-Jan-24,Mia,A10P,1,₱115.00,8023,Gcash
+9-Jan-24,Juwan,A10P,1,₱115.00,6491,Gcash
+9-Jan-24,Bree,A10P,1,₱115.00,9715,Gcash
+9-Jan-24,RL,A10P,1,₱115.00,1461,Cash
+9-Jan-24,Fiona,A10P,1,₱115.00,7198,Cash
+9-Jan-24,Jacob,A10P,1,₱115.00,1145,Gcash
+9-Jan-24,Misha,A10P,1,₱115.00,1115,Gcash
+9-Jan-24,Khelib (extra),A10P,1,₱115.00,6438,Cash
+9-Jan-24,Argel (extra),A10P,1,₱115.00,5911,Cash
+9-Jan-24,Kuya Franz,CC10P,1,₱115.00,5495,Gcash
+9-Jan-24,Pattie,CC10P,1,₱115.00,6850,Gcash
+9-Jan-24,Collen,SM10P,1,₱115.00,8131,Cash
+9-Jan-24,Zareena,SM10P,1,₱115.00,3474,Cash
+9-Jan-24,Aaron,SM10P,1,₱115.00,9614,Cash
+9-Jan-24,Madam,SM10P,1,₱115.00,6526,Cash
+25-Jan-24,Charles ,MT1,1,₱135.00,7191,Gcash
+25-Jan-24,Jaz,MT1,1,₱135.00,8792,Cash
+25-Jan-24,Rein,MT1,1,₱135.00,4746,Gcash
+25-Jan-24,Erin Ganda,MT1,1,₱135.00,5799,Cash
+25-Jan-24,Angela,MT1,1,₱135.00,3035,Cash
+25-Jan-24,Kuya Jim,MT1,1,₱135.00,6951,Cash
+25-Jan-24,Jhoanna,MT2,1,₱130.00,7869,Gcash
+25-Jan-24,Misha Sobrang Cute,MT2,1,₱130.00,1264,Cash
+25-Jan-24,Ella cous,MT2,1,₱130.00,5230,Cash
+25-Jan-24,Mia,MT3,1,₱135.00,4119,Cash
+25-Jan-24,Jacin,MT3,1,₱135.00,2615,Gcash
+25-Jan-24,Allen,MT3,1,₱135.00,7451,Cash
+25-Jan-24,Jojie,MT4,1,₱115.00,9662,Cash
+25-Jan-24,Allen,MT4,1,₱115.00,1568,Gcash
+25-Jan-24,Miguel ,CC10P,1,₱110.00,9014,Cash
+25-Jan-24,Mark James,CC10P,1,₱110.00,3762,Cash
+25-Jan-24,Edrian,CC10P,1,₱110.00,3413,Cash
+25-Jan-24,Ela,SM10P,1,₱120.00,1330,Gcash
+25-Jan-24,Jhoanna,SM10P,1,₱120.00,8050,Gcash
+25-Jan-24,Madam,MD10P,1,₱150.00,5325,Cash
+25-Jan-24,Val,MD10P,1,₱150.00,2572,Cash
+25-Jan-24,Dani,MD10P,1,₱150.00,2889,Gcash
+31-Jan-24,Danna,MT1,1,₱135.00,5123,Cash
+31-Jan-24,Gian,MT1,1,₱135.00,9294,Cash
+31-Jan-24,Hazel,MT1,1,₱135.00,9767,Cash
+31-Jan-24,Bea,MT1,1,₱135.00,6178,Gcash
+31-Jan-24,Anne Cha,MT1,2,₱270.00,2226,Gcash
+31-Jan-24,Enrica,MT1,2,₱270.00,4936,Gcash
+31-Jan-24,Evryll,MT1,2,₱270.00,3087,Cash
+31-Jan-24,Denyse,MT1,1,₱135.00,9700,Gcash
+31-Jan-24,Denyse,MT1,1,₱135.00,9857,Gcash
+31-Jan-24,Mitzi ,MT1,1,₱135.00,9216,Cash
+31-Jan-24,Saina,MT1,3,₱405.00,3695,Cash
+31-Jan-24,Jowan's Friend,MT1,2,₱270.00,4574,Gcash
+31-Jan-24,Nikka,MT1,1,₱135.00,6191,Cash
+31-Jan-24,Elle,MT1,1,₱135.00,4340,Cash
+31-Jan-24,Ciela Marie,MT1,1,₱135.00,9505,Cash
+31-Jan-24,Xea,MT1,1,₱135.00,8648,Gcash
+31-Jan-24,Josh,MT1,1,₱135.00,7254,Cash
+31-Jan-24,Thea,MT1,1,₱135.00,9916,Cash
+31-Jan-24,Rule,MT1,1,₱135.00,9307,Cash
+31-Jan-24,Mom,MT2,1,₱130.00,3034,Gcash
+31-Jan-24,Ate Aika,MT2,1,₱130.00,8124,Gcash
+31-Jan-24,mishacakes,MT2,1,₱130.00,5435,Cash
+31-Jan-24,Jing ,MT2,1,₱130.00,8001,Cash
+31-Jan-24,Mitzi,MT2,1,₱130.00,3457,Cash
+31-Jan-24,Collen,MT2,1,₱130.00,1616,Cash
+31-Jan-24,Shaina,MT3,1,₱135.00,9159,Cash
+31-Jan-24,Reyner,MT3,1,₱135.00,9382,Cash
+31-Jan-24,Akeesha,MT4,1,₱115.00,5500,Cash
+31-Jan-24,Novie,MT4,1,₱115.00,9578,Cash
+31-Jan-24,Jaden,MT4,1,₱115.00,2198,Cash
+31-Jan-24,Mayor ,MT4,1,₱115.00,3330,Cash
+31-Jan-24,Ata,MT4,1,₱115.00,7962,Gcash
+31-Jan-24,Wana,MT4,1,₱115.00,2562,Cash
+31-Jan-24,Genesis Tropa,MT4,1,₱115.00,2702,Cash
+31-Jan-24,Anne ,MT4,1,₱115.00,4326,Cash
+31-Jan-24,Pamana Jel,MT4,1,₱115.00,3249,Cash
+31-Jan-24,Jancee,CC10P,1,₱115.00,8960,Cash
+31-Jan-24,Harman,CC10P,1,₱115.00,5554,Gcash
+31-Jan-24,extra,CC10P,1,₱115.00,9678,Gcash
+31-Jan-24,Zareena,MD10P,1,₱115.00,3732,Cash
+31-Jan-24,Yza,MD10P,1,₱115.00,4125,Cash
+1-Feb-24,Allen,MT1,1,₱135.00,7022,Gcash
+1-Feb-24,Allen,MT4,3,₱345.00,4754,Gcash
+1-Feb-24,Allen,SM10P,1,₱120.00,8334,Cash
+14-Feb-24,Ella,MT1,1,₱135.00,8290,Gcash
+14-Feb-24,Ka Edna,MT1,2,₱270.00,3297,Cash
+14-Feb-24,Patty,MT1,1,₱135.00,4093,Gcash
+14-Feb-24,Charles B,MT1,1,₱135.00,8505,Gcash
+14-Feb-24,Elisha Ruby,MT1,1,₱135.00,9566,Cash
+14-Feb-24,Franxine Abu,MT1,1,₱135.00,7928,Cash
+14-Feb-24,Angel Isaac,MT1,2,₱270.00,3366,Gcash
+14-Feb-24,Joyce Melendres,MT1,3,₱405.00,4264,Cash
+14-Feb-24,Thea Sacaguing,MT1,1,₱135.00,2476,Gcash
+14-Feb-24,Von Zundell,MT1,2,₱270.00,8966,Cash
+14-Feb-24,Jazmin Rose,MT1,1,₱135.00,2426,Cash
+14-Feb-24,Althea Masangcay,MT1,1,₱135.00,5616,Cash
+14-Feb-24,Zen Bangon,MT1,1,₱135.00,8410,Cash
+14-Feb-24,Mitzi Panteleon,MT1,1,₱135.00,8252,Cash
+14-Feb-24,RL Baloyo,MT1,2,₱270.00,4669,Cash
+14-Feb-24,Wenna (Lei),MT1,1,₱135.00,8580,Cash
+14-Feb-24,Rainne,MT1,1,₱135.00,3923,Gcash
+14-Feb-24,Franz Orcadeja,MT1,1,₱135.00,9969,Cash
+14-Feb-24,Mia Siongco,MT1,1,₱135.00,2144,Cash
+14-Feb-24,Jianne (lib),MT1,1,₱135.00,2967,Gcash
+14-Feb-24,Wakim (lib),MT1,1,₱135.00,4568,Gcash
+14-Feb-24,Jowan,MT1,1,₱135.00,9816,Gcash
+14-Feb-24,Andrea Lalogo,MT1,1,₱135.00,6469,Cash
+14-Feb-24,Kleineil Galang,MT1,2,₱270.00,6669,Cash
+14-Feb-24,Pia Laxa,MT1,1,₱135.00,2891,Cash
+14-Feb-24,Shekainah Ortega,MT1,1,₱135.00,3334,Cash
+14-Feb-24,Trisha Mae Ramos,MT1,1,₱135.00,3152,Cash
+14-Feb-24,Angel Econ (Extra),MT1,1,₱135.00,2353,Cash
+14-Feb-24,Khrismierra (For Ate Dani) (Extra),MT1,1,₱135.00,8903,Gcash
+14-Feb-24,Prof Ian (Extra),MT1,4,₱540.00,6152,Cash
+14-Feb-24,G- ann,MT2,1,₱130.00,6211,Cash
+14-Feb-24,Aaron,MT2,1,₱130.00,4206,Cash
+14-Feb-24,Saina,MT2,1,₱130.00,5443,Gcash
+14-Feb-24,Val ,MT2,1,₱130.00,2442,Cash
+14-Feb-24,Trisha Mae Ramos,MT2,1,₱130.00,1605,Cash
+14-Feb-24,Elisha Ruby,MT3,1,₱135.00,6965,Cash
+14-Feb-24,Mia Siongco,MT3,1,₱135.00,3429,Cash
+14-Feb-24,Trishelle Santos,MT3,1,₱135.00,5486,Cash
+14-Feb-24,Erin ,MT3,1,₱135.00,4799,Cash
+14-Feb-24,Ashley Crystal Dane,MT3,2,₱270.00,5739,Cash
+14-Feb-24,Novie,MT4,1,₱115.00,6269,Gcash
+14-Feb-24,Ka Liza,MT4,1,₱115.00,6696,Cash
+14-Feb-24,Sean,MT4,1,₱115.00,7965,Cash
+14-Feb-24,Allen,MT4,3,₱345.00,6770,Gcash
+14-Feb-24,G-ann,MT4,1,₱115.00,6634,Cash
+14-Feb-24,Ilay,MT4,1,₱115.00,5492,Gcash
+14-Feb-24,Mika Dolar,MT4,1,₱115.00,2198,Cash
+14-Feb-24,Maxine Mentay,MT4,1,₱115.00,8373,Gcash
+14-Feb-24,Enrico II,MT4,1,₱115.00,2206,Gcash
+14-Feb-24,Genesis,MT4,1,₱115.00,9736,Cash
+14-Feb-24,Gabby Gonzales,MT4,1,₱115.00,9100,Cash
+14-Feb-24,Princess Alejo,CC10P,1,₱110.00,4441,Gcash
+14-Feb-24,Armando,CC10P,1,₱110.00,4282,Cash
+14-Feb-24,Teph,CC10P,1,₱110.00,9087,Gcash
+14-Feb-24,Misha,CC10P,1,₱110.00,1303,Cash
+14-Feb-24,Bree,CC10P,1,₱110.00,9724,Gcash
+14-Feb-24,Rochy Ocampo,CC10P,1,₱110.00,7540,Cash
+14-Feb-24,Princess Alejo,SM10P,1,₱120.00,5917,Gcash
+14-Feb-24,Mayor ,SM10P,2,₱240.00,4786,Gcash
+14-Feb-24,Vice,SM10P,2,₱240.00,3173,Cash
+14-Feb-24,Yani Santos,SM10P,1,₱120.00,6113,Cash
+14-Feb-24,Val,MD10P,1,₱150.00,3035,Cash
+14-Feb-24,Reyner,MD10P,1,₱150.00,1280,Cash
+14-Feb-24,Thea Aspe,MD10P,1,₱150.00,7728,Gcash
+14-Feb-24,Cheska Z,MT2,1,₱130.00,2598,Cash
+14-Feb-24,Cheska Z,MD10P,1,₱150.00,1664,Cash
+28-Feb-24,Josh,MT1,1,₱135.00,8934,Cash
+28-Feb-24,Erin ,MT3,1,₱135.00,1510,Cash
+28-Feb-24,Erika Joy,MT4,1,₱115.00,9044,Cash
+28-Feb-24,Tropang Genesis,MT4,1,₱115.00,6305,Cash
+28-Feb-24,Mary Joy Lapinao,MT4,1,₱115.00,5555,Cash
+28-Feb-24,Misha,CC10P,1,₱110.00,8133,Cash
+28-Feb-24,Aaron,SM10P,1,₱120.00,8566,Cash
+28-Feb-24,Reyner,MD10P,1,₱150.00,1283,Cash
+28-Feb-24,Val,MD10P,2,₱300.00,9572,Cash
+13-Mar-24,Ate Shawi,MT1,1,₱145.00,4807,Cash
+13-Mar-24,Ryan Altich,MT1,1,₱145.00,8904,Cash
+13-Mar-24,Ate Aika,MT1,2,₱290.00,6946,Cash
+13-Mar-24,Lebby,MT2,1,₱140.00,7134,Cash
+13-Mar-24,Sol San Juan,MT3,1,₱140.00,6576,Cash
+13-Mar-24,Erin ,MT3,1,₱145.00,7472,Cash
+13-Mar-24,Lebby,2MT1,4,₱460.00,2464,Cash
+13-Mar-24,Pia Laxa,2MT2,1,₱150.00,3916,Cash
+13-Mar-24,SK Reyner,2MT2,1,₱150.00,2586,Cash
+13-Mar-24,Lebby,2MT3,1,₱135.00,6350,Cash
+13-Mar-24,Maxinne Mentay,2MT4,1,₱135.00,3197,Cash
+13-Mar-24,Jhoanna,2MT6,1,₱130.00,6249,Cash
+13-Mar-24,Lebby,SM10P,1,₱120.00,1986,Cash
+13-Mar-24,Trishelle,VK10P,1,₱150.00,6460,Cash
+13-Mar-24,Nicole Joy,CK10,2,₱220.00,4427,Cash
+6-Apr-24,A. Bless,GB7P,1,₱60.00,3241,Cash
+6-Apr-24,A. Eya,GB7P,2,₱120.00,9116,Cash
+6-Apr-24,Mayor ,GB7P,2,₱120.00,2022,Gcash
+6-Apr-24,Sean,GB7P,1,₱60.00,9059,Gcash
+6-Apr-24,Juwan,GB7P,1,₱60.00,9480,Gcash
+6-Apr-24,Ilay,GB7P,5,₱300.00,1529,Cash
+6-Apr-24,Erin ,GB7P,13,₱780.00,6858,Cash
+6-Apr-24,Phia,GB7P,8,₱480.00,2524,Gcash
+6-Apr-24,Ena,GB7P,4,₱240.00,1515,Cash
+6-Apr-24,Trishelle,GB7P,5,₱300.00,6471,Cash
+6-Apr-24,SK (Extra),GB7P,1,₱60.00,3156,Cash
+29-May-24,Jowan,B125,1,₱130.00,7643,Cash
+29-May-24,Bree,B125,1,₱130.00,2381,Gcash
+29-May-24,Misha,B125,1,₱130.00,5201,Gcash
+29-May-24,Trisehelle,B125,1,₱130.00,8561,Cash
+29-May-24,Ann,B125,1,₱130.00,4875,Cash
+29-May-24,Extra Genesis,B125,1,₱130.00,5715,Gcash
+29-May-24,Val,WO125,1,₱125.00,1984,Cash
+29-May-24,Aaron,WO125,1,₱125.00,4287,Gcash
+29-May-24,Bree,WO125,1,₱125.00,3651,Gcash
+29-May-24,Ate Yani,WO125,1,₱125.00,8020,Cash
+29-May-24,Sir Francis (Extra),WO125,1,₱125.00,7966,Cash
+29-May-24,Athena,BB125,1,₱120.00,7516,Gcash
+29-May-24,Bree ,BB125,1,₱120.00,5760,Gcash
+29-May-24,Athena,BB125,1,₱120.00,6519,Cash
+29-May-24,Erin ,B300,1,₱250.00,9134,Cash
+29-May-24,Ena,B300,1,₱250.00,2312,Cash
+29-May-24,Ate Lie,B300,1,₱250.00,4572,Cash
+29-May-24,Sean,B300,1,₱250.00,4790,Gcash
+29-May-24,Hanz,B300,1,₱250.00,4883,Gcash
+29-May-24,Muro,B300,1,₱250.00,6999,Gcash
+29-May-24,SK,B300,1,₱250.00,2304,Cash
+29-May-24,Muro,WO300,1,₱240.00,9265,Gcash
+29-May-24,Kim,WO300,1,₱240.00,1495,Gcash
+29-May-24,Leina,BB300,1,₱230.00,9036,Cash
+29-May-24,"Nati, erin",2MT3,2,₱270.00,1901,Gcash
+29-May-24,Nati,2MT5,1,₱130.00,3087,Gcash
+29-May-24,Nati,2MT6,2,₱260.00,5628,Gcash
+29-May-24,Hanz,CC10P,1,₱110.00,1744,Gcash
+29-May-24,Ate Pat,MT1,1,₱145.00,9793,Gcash
+29-May-24,Dein,B300,1,₱250.00,7841,Cash
+29-May-24,Charles (Den),B300,1,₱250.00,5919,Gcash
+29-May-24,Joyce (Den),B300,1,₱250.00,9655,Cash
+29-May-24,Evryl,B300,1,₱250.00,4453,Gcash
+29-May-24,Ilay,B300,1,₱250.00,3381,Gcash
+29-May-24,Aaron,B300,1,₱250.00,9637,Cash
+29-May-24,Erin ,B300,1,₱250.00,7308,Gcash
+29-May-24,Bree,B300,1,₱250.00,5938,Gcash
+29-May-24,K. Levin,B300,1,₱250.00,2246,Gcash
+29-May-24,Ate Lie,B300,1,₱250.00,7881,Cash
+29-May-24,Sean,B300,1,₱250.00,6595,Cash
+29-May-24,Madam,B300,1,₱250.00,8812,Cash
+29-May-24,A. Yuri,B300,1,₱250.00,1380,Gcash
+29-May-24,Novie,B300,1,₱250.00,4644,Cash
+29-May-24,Tep,B300,1,₱250.00,8477,Gcash
+29-May-24,Kim,B300,1,₱250.00,8428,Cash
+29-May-24,SK ,B300,1,₱250.00,7233,Cash
+29-May-24,Dein,WO300,1,₱240.00,7804,Cash
+29-May-24,Mack (Den),WO300,1,₱240.00,6258,Gcash
+29-May-24,Collen,WO300,1,₱240.00,2276,Cash
+29-May-24,Evryll,WO300,1,₱240.00,8600,Gcash
+29-May-24,Angela (paorder),WO300,1,₱240.00,6164,Cash
+29-May-24,K. Levin,WO300,1,₱240.00,1782,Cash
+29-May-24,A. Yuri,WO300,1,₱240.00,4547,Gcash
+29-May-24,Kim ,WO300,1,₱240.00,5656,Cash
+29-May-24,Kuya,WO300,1,₱240.00,5005,Cash
+29-May-24,Dein,BB300,1,₱230.00,3493,Cash
+29-May-24,Aubrey,BB300,1,₱230.00,6668,Gcash
+29-May-24,Evryll,BB300,1,₱230.00,8204,Gcash
+29-May-24,Armando,BB300,1,₱230.00,1410,Gcash
+29-May-24,K. Levin,BB300,1,₱230.00,8365,Cash
+29-May-24,A. Yuri,BB300,1,₱230.00,9010,Gcash
+29-May-24,A. Yuri,BB300,1,₱230.00,9851,Gcash
+29-May-24,Sean,BB300,1,₱230.00,1347,Cash
+29-May-24,Kim,BB300,1,₱230.00,8727,Cash
+29-May-24,Adrian Paraiso,BB300,1,₱230.00,8674,Gcash
+29-May-24,Amber,BB300,1,₱230.00,5721,Gcash
+29-May-24,Mom Angela,GB7P,1,₱60.00,4268,Cash
+29-May-24,Ashly,GB7P,1,₱60.00,8312,Cash
+29-May-24,Ena (plain),GB7P,1,₱60.00,2467,Cash
+29-May-24,Friend ni Jowan,GB7P,1,₱60.00,1612,Cash
+29-May-24,Erin ,GB7P,1,₱60.00,4743,Cash
+29-May-24,Mayor ,GB7P,2,₱120.00,7053,Cash
+29-May-24,Jaden,GB7P,1,₱60.00,3678,Cash
+29-May-24,Jancee,GB7P,1,₱60.00,6625,Cash
+8-Jun-24,Erin ,B300,1,₱250.00,4288,Cash
+8-Jun-24,El,B300,1,₱250.00,2819,Cash
+8-Jun-24,Bree,B300,1,₱250.00,7878,Cash
+8-Jun-24,Ate Bunag,B125,1,₱130.00,3964,Cash
+8-Jun-24,sis ni Bree,B125,1,₱130.00,6679,Cash
+8-Jun-24,Eka,WO125,1,₱125.00,4286,Cash
+8-Jun-24,Ate Bunag,WO125,1,₱125.00,7811,Cash
+8-Jun-24,Jowan,BB125,1,₱120.00,3505,Cash
+5-Oct-24,Dondie,B300,1,₱250.00,2617,Cash
+5-Oct-24,SK 1,B300,1,₱250.00,1935,Cash
+5-Oct-24,SK 2,B300,1,₱250.00,4741,Cash
+21-Oct-24,Aina,CC10P,1,₱120.00,7145,Cash
+21-Oct-24,Aina,SM10P,1,₱130.00,4909,Cash
+21-Oct-24,Margaret,MT1,1,₱145.00,6874,Cash
+21-Oct-24,Aina,MT1,1,₱145.00,8645,Cash
+21-Oct-24,Athena,MT1,1,₱145.00,4618,Cash
+21-Oct-24,Lianne,MT1,1,₱145.00,2406,Cash
+21-Oct-24,Arvin Jay,MT1,1,₱145.00,6615,Cash
+21-Oct-24,Arvin Jay,MT1,1,₱145.00,7233,Cash
+21-Oct-24,Angel Sibug,MT1,1,₱145.00,4459,Cash
+21-Oct-24,Lorenz,MT1,1,₱145.00,9735,Cash
+21-Oct-24,Lira (order),MT2,1,₱140.00,7049,Cash
+21-Oct-24,Sandi,MT2,1,₱140.00,3142,Cash
+21-Oct-24,Aira dizon,MT4,1,₱125.00,2848,Cash
+21-Oct-24,Chelsey,MT4,1,₱125.00,3472,Cash
+21-Oct-24,Rei,MT4,1,₱125.00,1681,Cash
+21-Oct-24,Chelsey,B300,1,₱250.00,6214,Cash
+21-Oct-24,Margaret,B300,1,₱250.00,8883,Cash
+21-Oct-24,Aina,B300,1,₱250.00,1531,Cash
+21-Oct-24,Aina,B300,1,₱250.00,6361,Cash
+21-Oct-24,Aina,B300,1,₱250.00,9486,Cash
+21-Oct-24,Aina,B300,1,₱250.00,6605,Cash
+21-Oct-24,Athena,B300,1,₱250.00,1727,Cash
+21-Oct-24,Jean Marie,B300,1,₱250.00,2361,Cash
+21-Oct-24,Lianne,B300,1,₱250.00,8877,Cash
+21-Oct-24,Arvin Jay,B300,1,₱250.00,4443,Cash
+21-Oct-24,Aina,WO300,1,₱240.00,1035,Cash
+21-Oct-24,Athena,WO300,1,₱240.00,3081,Cash
+21-Oct-24,Arvin Jay,WO300,1,₱240.00,9226,Cash
+21-Oct-24,Camille,WO300,1,₱240.00,7285,Cash
+21-Oct-24,Chelsey,BB300,1,₱230.00,5904,Cash
+21-Oct-24,Aina,BB300,1,₱230.00,6989,Cash
+21-Oct-24,Aina,BB300,1,₱230.00,5154,Cash
+21-Oct-24,Athena,BB300,1,₱230.00,8500,Cash
+21-Oct-24,Arvin Jay,BB300,1,₱230.00,3842,Cash
+21-Oct-24,MADAM,BB300,1,₱230.00,3000,Cash
+21-Oct-24,Sir Rocks,BB300,1,₱230.00,4126,Cash
+21-Oct-24,Lianne,C300,1,₱90.00,9487,Cash
+21-Oct-24,Arvin Jay,C300,1,₱90.00,4337,Cash
+21-Oct-24,Shekainah,CA300,1,₱100.00,4920,Cash
+21-Oct-24,Aira dizon,CW300,1,₱100.00,7599,Cash
+21-Oct-24,Arvin Jay,CBA300,1,₱120.00,1358,Cash
+21-Oct-24,Athena,CBW300,1,₱120.00,9789,Cash
+21-Oct-24,Arvin Jay,CBW300,1,₱120.00,6486,Cash
+21-Oct-24,Leina,C700,1,₱160.00,7998,Cash
+21-Oct-24,Aina,C700,1,₱160.00,7182,Cash
+21-Oct-24,Aina,CA700,1,₱175.00,3951,Cash
+21-Oct-24,Aina,CW700,1,₱175.00,1840,Cash
+21-Oct-24,Saina,CBA700,1,₱210.00,2736,Cash
+21-Oct-24,Liro,CBA700,1,₱210.00,7987,Cash
+21-Oct-24,Sir Mike,CBA700,1,₱210.00,4810,Cash
+21-Oct-24,Saina,CBW700,1,₱210.00,5010,Cash
+21-Oct-24,RL,CBW700,1,₱210.00,9011,Cash
+21-Oct-24,Camille,CBW700,1,₱210.00,3679,Cash
+21-Oct-24,Orwill,CBW700,1,₱210.00,5468,Cash
+21-Oct-24,Saina,CBA700,1,₱210.00,8707,Cash
+21-Oct-24,Saina,CBW700,1,₱210.00,7235,Cash
+21-Oct-24,Miguel,B300,1,₱250.00,5441,Cash
+21-Oct-24,Hillary,B300,1,₱250.00,8024,Cash
+21-Oct-24,Jacin,B300,1,₱250.00,6729,Cash
+21-Oct-24,K. Kim,B300,1,₱250.00,5263,Cash
+21-Oct-24,Erin ,B125,1,₱130.00,5844,Cash
+21-Oct-24,Ash,B126,1,₱130.00,2705,Cash
+21-Oct-24,K. Levi,BB300,1,₱230.00,1397,Cash
+21-Oct-24,Dani gurl,MT1,1,₱145.00,6461,Cash
+21-Oct-24,Naticakes,MT1,1,₱145.00,7640,Cash
+21-Oct-24,Erin ,MT3,1,₱145.00,4915,Cash
+21-Oct-24,SK 1,MD10P,1,₱150.00,4666,Cash
+21-Oct-24,SK 2,MD10P,1,₱150.00,3221,Cash
+21-Oct-24,Miguel,B300,1,₱250.00,6081,Cash
+21-Oct-24,Dani ,B300,1,₱250.00,2683,Cash
+21-Oct-24,Ena,BB300,1,₱230.00,9380,Cash
+21-Oct-24,Erin ,B125,1,₱130.00,3816,Cash
+21-Oct-24,Jacin,B125,1,₱130.00,2480,Cash
+21-Oct-24,SK 1,MD10P,1,₱150.00,9498,Cash
+21-Oct-24,SK 2,MD10P,1,₱150.00,3261,Cash
+21-Oct-24,Ash ,MT3,1,₱145.00,1840,Cash
+21-Oct-24,Erin ,MT3,1,₱145.00,3803,Cash
+21-Oct-24,Nati,MT3 ,1,₱145.00,9900,Cash
+21-Oct-24,Nati (Container),MT4,1,₱135.00,5986,Cash
+24-Oct-24,Arvin Jay Nicolas,B300,1,₱250.00,1029,Gcash
+24-Oct-24,Arvin Jay Nicolas,WO300,1,₱240.00,5210,Gcash
+24-Oct-24,Arvin Jay Nicolas,BB300,1,₱230.00,8566,Gcash
+24-Oct-24,Arvin Jay Nicolas,C300,1,₱90.00,1400,Gcash
+24-Oct-24,Arvin Jay Nicolas,CBA300,1,₱120.00,9612,Gcash
+24-Oct-24,Arvin Jay Nicolas,CBW300,1,₱120.00,9048,Gcash
+24-Oct-24,Arvin Jay Nicolas,MT1,1,₱140.00,1420,Gcash
+24-Oct-24,Madam JC Patawaran,BB300,1,₱230.00,8327,Cash
+29-Oct-24,Angel Sibug,CBW300,1,₱120.00,7604,Cash
+29-Oct-24,Angel Sibug,MT1,1,₱145.00,8796,Cash
+4-Nov-24,Kristine San Diego,CW300,1,₱100.00,3955,Cash
+4-Nov-24,Kristine San Diego,CC10P,1,₱120.00,5229,Cash
+4-Nov-24,Kristine San Diego,SM10P,1,₱130.00,4849,Cash
+6-Nov-24,Jhoanna Bunag,B300,1,₱250.00,4458,Cash
+7-Nov-24,JHON RAFAEL BERNARDO,CC10P,1,₱120.00,8417,Cash
+7-Nov-24,JHON RAFAEL BERNARDO,SM10P,1,₱130.00,5910,Cash
+7-Nov-24,Bree Cortez,C300,1,₱90.00,5136,Cash
+7-Nov-24,Aaron Enriquez,CW700,1,₱175.00,9689,Cash
+10-Nov-24,Princess Therese Miranda,MT1,1,₱145.00,9129,Cash
+18-Nov-24,Jaiehza Sadiwa,CBA700,1,₱210.00,4389,Cash
+18-Nov-24,Beatriz Urbino,B300,1,₱250.00,5143,Cash
+18-Nov-24,Beatriz Urbino,MT1,1,₱145.00,5528,Cash
+18-Nov-24,Tita Michelle,BB300,2,₱460.00,9632,Gcash
+18-Nov-24,Tita Michelle,CBW700,2,₱420.00,2323,Gcash
+18-Nov-24,Tita Michelle,CC10P,2,₱240.00,8706,Gcash
+18-Nov-24,Tita Michelle,SM10P,2,₱260.00,9857,Gcash
+18-Nov-24,Tita Michelle,MD10P,2,₱300.00,3326,Gcash
+19-Nov-24,Alexxa Basilio,CA700,1,₱175.00,7597,Cash
+19-Nov-24,Alexxa Basilio,CC10P,1,₱120.00,4700,Cash
+19-Nov-24,Alexxa Basilio,SM10P,1,₱130.00,5021,Cash
+19-Nov-24,Princess Artus,MT1,2,₱290.00,8678,Cash
+21-Nov-24,Triz Payabyab,MT4,1,₱130.00,2982,Cash
+21-Nov-24,John Niel Ramos,SM10P,1,₱130.00,7361,Gcash
+6-Dec-24,Bridget,TTB,1,₱79.00,8012,Cash
+6-Dec-24,Bridget,CW300,1,₱100.00,6904,Cash
+8-Dec-24,Prof Alejandrino,CBC6,5,"₱1,825.00",2892,Cash
+8-Dec-24,Prof Alejandrino,OP,20,₱289.00,4385,Cash
+11-Dec-24,Michelle Andrea,MD10P,2,₱300.00,3777,Cash
+11-Dec-24,Michelle Andrea,MT4,1,₱125.00,9202,Cash
+22-Dec-24,Jeda,MT2,1,₱140.00,3908,Cash
+22-Jan-25,Levin Reyes,BRW,1,₱100.00,4480,Cash
+22-Jan-25,Levin Reyes,BB300,1,₱230.00,1709,Cash
+22-Jan-25,Aaron Enriquez,CC55g,1,₱50.00,1437,Cash
+22-Jan-25,Aaron Enriquez,RV55g,1,₱50.00,4814,Cash
+22-Jan-25,Aaron Enriquez,SM55g,1,₱60.00,3133,Cash
+22-Jan-25,Aaron Enriquez,WD55g,1,₱60.00,8917,Cash
+22-Jan-25,Aaron Enriquez,BC55g,1,₱60.00,2379,Cash
+23-Jan-25,Levin Reyes,WD55g,1,₱60.00,7671,Cash
+23-Jan-25,Joy Calunod,MT1,1,₱145.00,3045,Gcash
+23-Jan-25,Lira Molina,MD55g,1,₱50.00,6213,Cash
+23-Jan-25,Lira Molina,RV55g,1,₱50.00,9339,Cash
+23-Jan-25,Lira Molina,BC55g,1,₱60.00,2065,Cash
+23-Jan-25,Lira Molina,CBA300,1,₱120.00,1628,Cash
+24-Jan-25,Zen Bangon,BRW,1,₱100.00,8754,Cash
+24-Jan-25,Mikaela Dolar,RV55g,1,₱50.00,8349,Cash
+24-Jan-25,Mikaela Dolar,CF55g,1,₱55.00,4921,Cash
+24-Jan-25,Mikaela Dolar,WD55g,1,₱60.00,8112,Cash
+24-Jan-25,Jaz Adriano,BRW,1,₱100.00,8286,Cash
+24-Jan-25,Jaz Adriano,CA300,1,₱100.00,1159,Cash
+25-Jan-25,Jhoanna Bunag,CM55g,1,₱50.00,8421,Cash
+25-Jan-25,Jhoanna Bunag,TP55g,1,₱55.00,8403,Cash
+25-Jan-25,Jhoanna Bunag,SM55g,1,₱60.00,7910,Cash
+25-Jan-25,Jhoanna Bunag,BC55g,1,₱60.00,2556,Cash
+25-Jan-25,Jhoanna Bunag,BRW,1,₱100.00,6159,Cash
+25-Jan-25,Triz Payabyab,BRW,1,₱100.00,3991,Cash
+25-Jan-25,Triz Payabyab,BC55g,1,₱60.00,9315,Cash
+25-Jan-25,Triz Payabyab,MT4,1,₱125.00,2368,Cash
+26-Jan-25,Althea Marcelino,CM55g,1,₱50.00,7920,Cash
+26-Jan-25,Althea Marcelino,MD55g,1,₱55.00,4779,Cash
+26-Jan-25,Althea Marcelino,TP55g,1,₱55.00,1452,Cash
+26-Jan-25,Mia Siongco,BRW,1,₱100.00,7482,Cash
+26-Jan-25,Danielle Soliman,BB300,1,₱230.00,3645,Gcash
+27-Jan-25,Angela Marie,BRW,1,₱100.00,9945,Cash
+27-Jan-25,John Niel Ramos,RV55g,1,₱50.00,8423,Cash
+27-Jan-25,John Niel Ramos,SM55g,1,₱60.00,9503,Cash
+29-Jan-25,Sean Imson,BRW,1,₱100.00,1634,Gcash
+29-Jan-25,Reyner Santos Jr,CA700,1,₱175.00,7290,Cash
+29-Jan-25,Liam Cabrera,BRW,1,₱100.00,3053,Cash
+29-Jan-25,RLBaloyo,BRW,1,₱100.00,8139,Cash
+29-Jan-25,Ara Roxas,MT1,1,₱145.00,6614,Gcash
+30-Jan-25,Lira and Friends,MD55g,1,₱50.00,5414,Cash
+30-Jan-25,Lira and Friends,CF55g,2,₱110.00,3473,Cash
+30-Jan-25,Lira and Friends,BC55g,1,₱60.00,2529,Cash
+30-Jan-25,Ash Dumilon,TP55g,2,₱110.00,5522,Gcash
+4-Feb-25,KyrelleTumala,CC55g,1,₱50.00,8500,Cash
+4-Feb-25,KyrelleTumala,WD55g,1,₱60.00,1473,Cash
+4-Feb-25,KyrelleTumala,RV55g,1,₱50.00,6942,Cash
+4-Feb-25,KyrelleTumala,BC55g,1,₱60.00,7195,Cash
+8-Feb-25,Miles,C300,1,₱90.00,4059,Cash
+8-Feb-25,Kaila Jane,CA300,1,₱100.00,9127,Cash
+8-Feb-25,Kaila Jane,BRW,2,₱200.00,3899,Cash
+8-Feb-25,Dana,BRW,1,₱100.00,5007,Cash
+8-Feb-25,Torno,BRW,1,₱100.00,2372,Cash
+8-Feb-25,Ena,BRW,1,₱100.00,9891,Cash
+8-Feb-25,Akeesha,BRW,1,₱100.00,3458,Cash
+8-Feb-25,Sophia Luna,BRW,1,₱100.00,8001,Cash
+8-Feb-25,Bisente,BRW,2,₱200.00,9151,Cash
+8-Feb-25,Jaimie,BRW,1,₱100.00,3360,Cash
+8-Feb-25,Kuya,BRW,1,₱100.00,6401,Cash
+8-Feb-25,Kuya CJ,BRW,1,₱100.00,2703,Cash
+8-Feb-25,Rahel,BRW,2,₱200.00,5596,Cash
+8-Feb-25,Jeda,BRW,1,₱100.00,5858,Cash
+8-Feb-25,Nyer,BRW,1,₱50.00,7071,Cash
+8-Feb-25,Erin,MT3,1,₱135.00,7195,Cash
+8-Feb-25,Shania,MD55g,2,₱100.00,8096,Cash
+8-Feb-25,Mom,RV55g,1,₱50.00,4087,Cash
+8-Feb-25,Mom,SM55g,1,₱60.00,4410,Cash
+8-Feb-25,Hillary Holdiem,3CL,1,₱299.00,5695,Cash
+8-Feb-25,Jeda Ashley,MT1,1,₱145.00,6532,Cash
+8-Feb-25,Jeda Ashley,MT4,1,₱125.00,2918,Cash
+9-Feb-25,Triz Payabyab,BRW,2,₱200.00,9986,Cash
+9-Feb-25,Jaz Adriano,BRW,1,₱100.00,4646,Cash
+9-Feb-25,Jhoanna Bunag,BRW,1,₱100.00,4857,Cash
+9-Feb-25,Erin Beltran,BRW,1,₱100.00,2811,Cash
+9-Feb-25,Leina Eusebio,RV55g ,1,₱50.00,5416,Cash
+9-Feb-25,Leina Eusebio,TC55g,1,₱55.00,6977,Cash
+9-Feb-25,Leina Eusebio,SM55g,1,₱60.00,4417,Cash
+9-Feb-25,Leina Eusebio,BRW,1,₱100.00,2164,Cash
+10-Feb-25,Jean Clark Cando,BRW,5,₱500.00,9403,Cash
+10-Feb-25,Juvin Sebastian,MT4,4,₱500.00,6779,Cash
+10-Feb-25,John Niel Ramos,3CL,1,₱299.00,3414,Cash
+11-Feb-25,Triz Payabyab,MT4,1,₱125.00,6443,Cash
+11-Feb-25,Jhoanna Bunag,3CL,1,₱299.00,3486,Gcash
+11-Feb-25,Christian Kerby Viloria,CC55g,2,₱100.00,1613,Cash
+11-Feb-25,Christian Kerby Viloria,SM55g,1,₱60.00,9494,Cash
+11-Feb-25,Christian Kerby Viloria,MT1,1,₱145.00,6274,Cash
+11-Feb-25,Jai Sadiwa,BRW,1,₱100.00,7677,Gcash
+11-Feb-25,Jai Sadiwa,CB300,1,₱105.00,9343,Gcash
+11-Feb-25,Joy Calunod,3CL,1,₱299.00,8834,Gcash
+12-Feb-25,Mariette Mitzi,BRW,2,₱200.00,8712,Cash
+12-Feb-25,Bridget Cardel,BRW,1,₱100.00,5188,Cash
+12-Feb-25,Misha Mercado,BRW,1,₱100.00,5894,Cash
+12-Feb-25,Joanne Recato,B300,1,₱250.00,7400,Cash
+13-Feb-25,Loreah Kate Hipolito,BRW,1,₱100.00,1794,Gcash
+13-Feb-25,Joanne (Evonne),BRW,1,₱100.00,5202,Cash
+13-Feb-25,Jai Sadiwa,BRW,1,₱100.00,4288,Cash
+13-Feb-25,Sophia Luna,BRW,1,₱100.00,1891,Cash
+13-Feb-25,Leina,BRW,1,₱100.00,1642,Cash
+13-Feb-25,Sian,BRW,1,₱100.00,2663,Cash
+13-Feb-25,Mia,BRW,2,₱200.00,5272,Cash
+13-Feb-25,Joy Calunod,BRW,1,₱100.00,7601,Cash
+13-Feb-25,SK ,BC55g,1,₱60.00,6939,Cash
+13-Feb-25,Erin,CC55g,1,₱50.00,7943,Cash
+13-Feb-25,Clark,B300,1,₱250.00,1517,Cash
+22-Feb-25,Lira,BRW,2,₱200.00,7033,Cash
+22-Feb-25,Danielle,CA300,1,₱100.00,4552,Cash
+22-Feb-25,Danielle,BB,2,₱22.00,5121,Cash
+23-Feb-25,Jhoanna,BRW,1,₱100.00,7839,Cash
+23-Feb-25,Jai 2,BRW,2,₱200.00,1508,Cash
+23-Feb-25,Bree,BRW,1,₱100.00,9212,Cash
+23-Feb-25,Erin,BRW,1,₱100.00,3588,Cash
+23-Feb-25,Sheka,BRW,1,₱100.00,7473,Cash
+23-Feb-25,Chelsey,BRW,1,₱100.00,8007,Cash
+23-Feb-25,Zen,BRW,1,₱100.00,8518,Cash
+23-Feb-25,Athena,BRW,1,₱100.00,3214,Cash
+23-Feb-25,Abbycakes,BRW,1,₱100.00,2021,Cash
+23-Feb-25,ATE PAT,BRW,1,₱100.00,1877,Cash
+23-Feb-25,ATE PAT,CBW300,1,₱120.00,5107,Cash
+23-Feb-25,Ann ,BBRW,10,₱450.00,9492,Cash
+23-Feb-25,MAMA ,BRW,1,₱100.00,2783,Cash
+23-Feb-25,Blessie ,BRW,1,₱100.00,1479,Cash
+23-Feb-25,Blessie ,MT1,1,₱145.00,6561,Cash
+23-Feb-25,Ate Lie,BC55g,1,₱60.00,1080,Cash
+23-Feb-25,Aaron,CF55g,1,₱55.00,9857,Cash
+23-Feb-25,Aaron,SM55g,1,₱60.00,9784,Cash
+23-Feb-25,Aaron,RV55g,2,₱110.00,6281,Cash
+23-Feb-25,Madam,CM55g,3,₱150.00,3300,Cash
+23-Feb-25,Madam,RV55g,2,₱110.00,2561,Cash
+23-Feb-25,Madam,BRW,1,₱100.00,1173,Cash
+23-Feb-25,Den,Biscoff,2,₱120.00,1592,Cash
+23-Feb-25,Den,BB,8,₱88.00,1967,Cash
+23-Feb-25,Den,BB,22,₱242.00,5781,Cash
+25-Feb-25,"Naomi ""Ganda""",BRW,1,₱100.00,2898,Gcash
+25-Feb-25,"Naomi ""Ganda""",Choco Chunk,1,₱120.00,2597,Gcash
+1-Mar-25,Genesis,BRW,2,₱200.00,8476,Cash
+1-Mar-25,Clark,BRW,3,₱300.00,8853,Cash
+1-Mar-25,Jai,BRW,2,₱200.00,6508,Cash
+1-Mar-25,Lira,BRW,1,₱100.00,6909,Cash
+1-Mar-25,Jowan,BRW,1,₱100.00,1122,Cash
+1-Mar-25,Sophia J.,BRW,1,₱100.00,7059,Cash
+1-Mar-25,Lei,BRW,1,₱100.00,8031,Cash
+1-Mar-25,Mika,BRW,1,₱100.00,2334,Cash
+1-Mar-25,Ann,BRW,1,₱100.00,6904,Cash
+1-Mar-25,Mama,BRW,2,₱200.00,9900,Cash
+1-Mar-25,Kakay,BRW,1,₱100.00,3786,Cash
+1-Mar-25,Kuya,BRW,1,₱100.00,8772,Cash
+1-Mar-25,Cj,BRW,1,₱100.00,9587,Cash
+1-Mar-25,Cj,BBRW,1,₱50.00,6382,Cash
+1-Mar-25,danigurl,BBRW,4,₱180.00,7750,Cash
+1-Mar-25,beyonce,SM10P,1,₱130.00,5178,Cash
+1-Mar-25,Mama,CC10P,1,₱120.00,2348,Cash
+1-Mar-25,Ilay & Shai,BRW,1,₱100.00,9180,Cash
+1-Mar-25,Misha & Ena,BRW,1,₱100.00,9602,Cash
+1-Mar-25,Bree,BRW,1,₱100.00,1783,Cash
+1-Mar-25,Triz,BRW,1,₱100.00,3834,Cash
+5-Mar-25,Jai,BRW,2,200,2080,Cash
+5-Mar-25,Bree,BRW,1,100,3445,Cash
+5-Mar-25,Erin,BRW,1,100,4882,Cash
+5-Mar-25,Sheka,BRW,1,100,2129,Cash
+5-Mar-25,Chelsey,BRW,1,100,7445,Cash
+5-Mar-25,Zen,BRW,1,100,3307,Cash
+5-Mar-25,Athena,BRW,1,100,7970,Cash
+5-Mar-25,Lara,BRW,2,200,2790,Cash
+5-Mar-25,Madam,BRW,1,100,9429,Cash
+5-Mar-25,Abbcycakes,BRW,1,100,7939,Cash
+5-Mar-25,Ate Jho,BRW,1,100,8129,Cash
+5-Mar-25,Ate Jho,BBRW,1,50,3204,Cash
+5-Mar-25,Ate Pat,BRW,1,100,3708,Cash
+5-Mar-25,Ann,BBRW,10,500,7827,Cash
+5-Mar-25,Mama,BRW,1,100,8437,Cash
+5-Mar-25,Blessie,BRW,1,100,9958,Cash
+5-Mar-25,Ate Lie,BC55g,1,₱60.00,3916,Cash
+5-Mar-25,Aaron,CF55g,1,55,4502,Cash
+5-Mar-25,Aaron,SM55g,1,60,8684,Cash
+5-Mar-25,Aaron,RV55g,2,₱110.00,1140,Cash
+5-Mar-25,Madam,CM55g,3,150,7534,Cash
+5-Mar-25,Madam,RV55g,2,110,2397,Cash
+5-Mar-25,Den,BC55g,2,₱60.00,7895,Cash
+5-Mar-25,Ate Pat,CB300,1,105,3948,Cash
+5-Mar-25,Danigurl,CA300,1,100,8296,Cash
+16-Mar-25,Andrea Louise Belen,CP,2,₱220.00,6137,Cash
+16-Mar-25,Erin Beltran,CPM,1,₱55.00,7568,Cash
+17-Mar-25,Elgene Daniel Cunan,CPM,1,₱55.00,7405,Cash
+22-Mar-25,Lex Flores,BBRW,2,₱90.00,1621,Cash
+2-Apr-25,Aaron,2MT6,1,130,2081,Gcash
+2-Apr-25,Aaron,KGB,1,110,7418,Gcash
+2-Apr-25,Lex,BBRW,2,100,3580,Gcash
+2-Apr-25,Leina,BRW,1,100,3277,Cash
+2-Apr-25,Franz,BRW,1,100,3444,Cash
+2-Apr-25,Torno,BRW,1,100,3938,Cash
+2-Apr-25,Jai,BRW,1,100,3850,Cash
+2-Apr-25,Misha,KGB,1,110,3882,Cash
+2-Apr-25,Erin,KGB,1,110,8712,Cash
+2-Apr-25,Nati,KGB,2,220,9403,Cash
+2-Apr-25,Ate Lie,KGB,1,110,2341,Cash
+2-Apr-25,Ate Jho,KGB,2,220,3694,Gcash
+2-Apr-25,Sian,KGB,1,110,7021,Cash
+2-Apr-25,Carol,KGB,1,110,1636,Cash
+2-Apr-25,Bree,CA300,1,100,3905,Cash
+2-Apr-25,Elgene,CPM,1,55,9569,Gcash
+2-Apr-25,Elgene,CP,1,110,5188,Gcash
+2-Apr-25,Bree,CPM,1,55,3303,Cash
+10-Apr-25,Juris,CM55g,1,50,5294,Cash
+10-Apr-25,Juris,MT4,1,125,8642,Cash
+10-Apr-25,Juris,MT2,1,140,6095,Cash
+10-Apr-25,Ivan,MT4,1,125,9319,Gcash
+10-Apr-25,Ivan,BRW,5,500,6849,Cash
+10-Apr-25,Sean,BRW,4,400,3090,Cash
+10-Apr-25,Bree,CA300,1,100,5133,Cash
+10-Apr-25,SK,CA300,1,100,1351,Cash
